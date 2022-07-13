@@ -78,7 +78,7 @@ HOST: stackoverflow.com
 
 приложите скриншот консоли браузера в ответ.
     
-    ![Stack Overflow - Where Developers Learn, Share, & Build Careers 2022-07-12 17-44-38](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/03-sysadmin-06-net/Stack.png)
+![Stack Overflow - Where Developers Learn, Share, & Build Careers 2022-07-12 17-44-38](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/03-sysadmin-06-net/Stack.png)
 
 3. Какой IP адрес у вас в интернете?
     

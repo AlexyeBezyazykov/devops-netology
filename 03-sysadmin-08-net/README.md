@@ -89,16 +89,16 @@
 
 4. Проверьте используемые UDP сокеты в Ubuntu, какие протоколы и приложения используют эти порты?
 
-vagrant@vagrant:~$ sudo ss -lu
-State         Recv-Q        Send-Q                Local Address:Port                 Peer Address:Port        Process
-UNCONN        0             0                     127.0.0.53%lo:domain                    0.0.0.0:*
-UNCONN        0             0                    10.0.2.15%eth0:bootpc                    0.0.0.0:*
-
-vagrant@vagrant:~$ sudo netstat -ul
-Active Internet connections (only servers)
-Proto Recv-Q Send-Q Local Address           Foreign Address         State
-udp        0      0 localhost:domain        0.0.0.0:*
-udp        0      0 vagrant:bootpc          0.0.0.0:*
+        vagrant@vagrant:~$ sudo ss -lu
+        State         Recv-Q        Send-Q                Local Address:Port                 Peer Address:Port        Process
+        UNCONN        0             0                     127.0.0.53%lo:domain                    0.0.0.0:*
+        UNCONN        0             0                    10.0.2.15%eth0:bootpc                    0.0.0.0:*
+        
+        vagrant@vagrant:~$ sudo netstat -ul
+        Active Internet connections (only servers)
+        Proto Recv-Q Send-Q Local Address           Foreign Address         State
+        udp        0      0 localhost:domain        0.0.0.0:*
+        udp        0      0 vagrant:bootpc          0.0.0.0:*
 
 5. Используя diagrams.net, создайте L3 диаграмму вашей домашней сети или любой другой сети, с которой вы работали.
 ![photo_2022-08-04_16-27-42](photo_2022-08-04_16-27-42.jpg)

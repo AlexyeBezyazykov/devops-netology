@@ -99,25 +99,25 @@
 6. Переименуйте файлы ключей из задания 5. Настройте файл конфигурации SSH клиента, так чтобы вход на удаленный сервер осуществлялся по имени сервера.
 
 
-	vagrant@vagrant:~$ ssh test
-	no such identity: /home/vagrant/.ssh/some_server.key: No such file or directory
-	Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.4.0-110-generic x86_64)
+		vagrant@vagrant:~$ ssh test
+		no such identity: /home/vagrant/.ssh/some_server.key: No such file or directory
+		Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.4.0-110-generic x86_64)
 	
-	* Documentation:  https://help.ubuntu.com
-	* Management:     https://landscape.canonical.com
-	* Support:        https://ubuntu.com/advantage
-	
-	System information as of Wed 24 Aug 2022 04:58:29 AM UTC
-	
-	System load:  0.0                Processes:             127
-	Usage of /:   12.0% of 30.63GB   Users logged in:       1
-	Memory usage: 21%                IPv4 address for eth0: 10.0.2.15
-	Swap usage:   0%                 IPv4 address for eth1: 192.168.137.26
-	
-	
-	This system is built by the Bento project by Chef Software
-	More information can be found at https://github.com/chef/bento
-	Last login: Wed Aug 24 04:56:33 2022 from 192.168.137.23
+		* Documentation:  https://help.ubuntu.com
+		* Management:     https://landscape.canonical.com
+		* Support:        https://ubuntu.com/advantage
+
+		System information as of Wed 24 Aug 2022 04:58:29 AM UTC
+
+		System load:  0.0                Processes:             127
+		Usage of /:   12.0% of 30.63GB   Users logged in:       1
+		Memory usage: 21%                IPv4 address for eth0: 10.0.2.15
+		Swap usage:   0%                 IPv4 address for eth1: 192.168.137.26
+
+
+		This system is built by the Bento project by Chef Software
+		More information can be found at https://github.com/chef/bento
+		Last login: Wed Aug 24 04:56:33 2022 from 192.168.137.23
 
 
 7. Соберите дамп трафика утилитой tcpdump в формате pcap, 100 пакетов. Откройте файл pcap в Wireshark.

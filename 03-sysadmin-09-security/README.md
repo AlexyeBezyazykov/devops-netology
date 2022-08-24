@@ -3,7 +3,7 @@
 1. Установите Bitwarden плагин для браузера. Зарегестрируйтесь и сохраните несколько паролей.
 
 
- ![Monosnap 2022-08-23 12-57-58](Monosnap 2022-08-23 12-57-58.png)
+ ![Monosnap 2022-08-23 12-57-58]([Monosnap 2022-08-23 12-57-58.png](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/03-sysadmin-09-security/Monosnap%202022-08-23%2012-57-58.png))
 
 
 2. Установите Google authenticator на мобильный телефон. Настройте вход в Bitwarden акаунт через Google authenticator OTP.
@@ -15,10 +15,11 @@
 3. Установите apache2, сгенерируйте самоподписанный сертификат, настройте тестовый сайт для работы по HTTPS.
 
 
- ![Сертификат для alex 2022-08-23 12-52-05](Сертификат для alex 2022-08-23 12-52-05.png)
 
 
- ![Mozilla Firefox 2022-08-23 12-51-24](Mozilla Firefox 2022-08-23 12-51-24.png)
+
+ ![Mozilla Firefox 2022-08-23 12-51-24](Mozilla Firefox 2022-08-23 12-51-24.png) 
+ ![Сертификат для alex 2022-08-23 12-52-05]([Сертификат для alex 2022-08-23 12-52-05.png](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/03-sysadmin-09-security/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%B4%D0%BB%D1%8F%20alex%202022-08-23%2012-52-05.png))
 
 
 4. Проверьте на TLS уязвимости произвольный сайт в интернете (кроме сайтов МВД, ФСБ, МинОбр, НацБанк, РосКосмос, РосАтом, РосНАНО и любых госкомпаний, объектов КИИ, ВПК ... и тому подобное).

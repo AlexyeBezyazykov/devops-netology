@@ -94,7 +94,7 @@
 
     После успешной перезагрузки в браузере *на своем ПК* (не в виртуальной машине) вы должны суметь зайти на `localhost:19999`. Ознакомьтесь с метриками, которые по умолчанию собираются Netdata и с комментариями, которые даны к этим метрикам.
 
-![vagrant netdata dashboard 2022-10-31 12-44-42](vagrant netdata dashboard 2022-10-31 12-44-42.jpg)
+![vagrant netdata dashboard 2022-10-31 12-44-42.jpg](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/03-sysadmin-04-os/vagrant%20netdata%20dashboard%202022-10-31%2012-44-42.jpg))
 
 1. Можно ли по выводу `dmesg` понять, осознает ли ОС, что загружена не на настоящем оборудовании, а на системе виртуализации?
            

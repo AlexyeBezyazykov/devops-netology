@@ -13,7 +13,7 @@
     | fd8qrt6pg67eqopb7db9 | centos-7-base | centos | f2ei2tsbd97v7jap5rhc | READY  |
     +----------------------+---------------+--------+----------------------+--------+
 
-  ![Виртуальные машины | Yandex Compute Cloud 2023-05-10 15-51-46]([Виртуальные машины | Yandex Compute Cloud 2023-05-10 15-51-46.png](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/05-virt-04-docker-compose/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B%20%7C%20Yandex%20Compute%20Cloud%202023-05-10%2015-51-46.png))
+![Виртуальные машины | Yandex Compute Cloud 2023-05-10 15-51-46.png](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/05-virt-04-docker-compose/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B%20%7C%20Yandex%20Compute%20Cloud%202023-05-10%2015-51-46.png)
 
 
 ## Задача 2
@@ -291,5 +291,5 @@
   <img width="1200" height="600" src="./assets/yc_02.png">
 </p>
 
-![Monitor Services - Grafana 2023-05-10 15-50-52]([Monitor Services - Grafana 2023-05-10 15-50-52.png](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/05-virt-04-docker-compose/Monitor%20Services%20-%20Grafana%202023-05-10%2015-50-52.png))
+![Monitor Services - Grafana 2023-05-10 15-50-52](https://github.com/AlexyeBezyazykov/devops-netology/blob/main/05-virt-04-docker-compose/Monitor%20Services%20-%20Grafana%202023-05-10%2015-50-52.png)
 
